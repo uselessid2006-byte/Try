@@ -1,0 +1,8 @@
+{
+  "name": "DesiTales2 Custom Repo",
+  "description": "Personal CloudStream extensions repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/builds/plugins.json"
+  ]
+}
